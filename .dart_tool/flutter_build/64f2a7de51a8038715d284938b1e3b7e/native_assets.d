@@ -1,0 +1,1 @@
+ C:\\Users\\ankii\\source\\repos\\flutter_projects\\QuickTask\\quicktask\\.dart_tool\\flutter_build\\64f2a7de51a8038715d284938b1e3b7e\\native_assets.yaml: 
